@@ -1,0 +1,25 @@
+% tmp1=pyrW{1};
+% tmp2=pyrW2{1};
+% imwrite(tmp1, 'treeunil_Gaussian_6_1.png','png');
+% imwrite(tmp2, 'treeunil_GGIF_6_1.png','png');
+% tmp1=pyrW{7};
+% tmp2=pyrW2{7};
+% imwrite(tmp1, 'treeunil_Gaussian_6_7.png','png');
+% imwrite(tmp2, 'treeunil_GGIF_6_7.png','png');
+% tmp1=pyrW{4};
+% tmp2=pyrW2{4};
+% imwrite(tmp1, 'treeunil_Gaussian_6_4.png','png');
+% imwrite(tmp2, 'treeunil_GGIF_6_4.png','png');
+
+tmp1=pyrW{1};
+tmp2=pyrW2{1};
+imwrite(tmp1, 'tower_Gaussian_3_1.png','png');
+imwrite(tmp2, 'tower_GGIF_3_1.png','png');
+tmp1=pyrW{7};
+tmp2=pyrW2{7};
+imwrite(tmp1, 'tower_Gaussian_3_7.png','png');
+imwrite(tmp2, 'tower_GGIF_3_7.png','png');
+tmp1=pyrW{4};
+tmp2=pyrW2{4};
+imwrite(tmp1, 'tower_Gaussian_3_4.png','png');
+imwrite(tmp2, 'tower_GGIF_3_4.png','png');

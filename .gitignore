@@ -1,0 +1,22 @@
+input/
+methods/*.zip
+methods/PMEF-GFF/Dataset/
+methods/Lee-2018/code/image_sequence/
+methods/Lee-2018/code/image_sequence1/
+methods/Lee-2018/code/*.bmp
+methods/Lee-2018/code/*.png
+methods/Lee-2018/*.bmp
+methods/Lee-2018/*.png
+methods/Lee-2018/results/
+methods/AW_MEF/results/
+method/MESPD_TCSVT-2021/ArchSequence/
+method/MESPD_TCSVT-2021/Arno_Bartlomiej Okonek/
+methods/DSIFT_EF/images/
+methods\FMMR\sourceimages\
+methods\FMMEF-TIP-2020\ArchSequence\
+methods\FMMEF-TIP-2020\Chinese_garden_Bartlomiej Okonek\
+methods\huang-PAN\res_test\
+methods\huang-PAN\*.bmp
+methods\Mertens-MEF\house\
+methods\PAS-MEF\Demo_IzmirNight\
+methods\PAS-MEF\figure\
